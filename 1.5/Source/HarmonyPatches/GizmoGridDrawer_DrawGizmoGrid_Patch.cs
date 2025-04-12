@@ -430,6 +430,8 @@ namespace DragSorting
                         value.Value.gizmoOffsets.RemoveAll(x => x.Matches(designator));
                     }
                     DragSortingMod.settings.Write();
+                    // Update the cache immediately after moving a designator
+                    DesignationCategoryDef_ResolvedAllowedDesignators_Patch.ClearCache();
                     if (MainButtonDefOf.Architect.TabWindow is MainTabWindow_Architect architectTab)
                     {
                         architectTab.CacheDesPanels(); // Refresh UI
@@ -479,6 +481,7 @@ namespace DragSorting
                 newOffset.defaultLabel = command.defaultLabel;
                 newOffset.defaultDesc = command.defaultDesc;
                 newOffset.iconTexPath = command.icon?.name;
+                newOffset.tutorTag = command.tutorTag; // Store tutorTag
             }
             else
             {

@@ -16,7 +16,7 @@
           "build/Krafs.Publicizer.targets": {}
         }
       },
-      "Krafs.Rimworld.Ref/1.5.4297": {
+      "Krafs.Rimworld.Ref/1.5.4409": {
         "type": "package",
         "compile": {
           "ref/net472/Assembly-CSharp-firstpass.dll": {},
@@ -140,17 +140,17 @@
         "krafs.publicizer.nuspec"
       ]
     },
-    "Krafs.Rimworld.Ref/1.5.4297": {
-      "sha512": "uhY1DK8YQB55IamhyOus6A//S47F93JiOe5ORBv+KnN9HNOanAQY8TaBMKpJKhdZj2GHYny/7rZixjv4DAKYMQ==",
+    "Krafs.Rimworld.Ref/1.5.4409": {
+      "sha512": "0Sn9Ow0hbsQ1pmwHoKmcAzhMkv/BjHrIpZOH4eyUwHx238a3+2jDqNwCggKR8E3BouNeIOQuNcyMrc78slOtaA==",
       "type": "package",
-      "path": "krafs.rimworld.ref/1.5.4297",
+      "path": "krafs.rimworld.ref/1.5.4409",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.md",
         "README.md",
         "icon.png",
-        "krafs.rimworld.ref.1.5.4297.nupkg.sha512",
+        "krafs.rimworld.ref.1.5.4409.nupkg.sha512",
         "krafs.rimworld.ref.nuspec",
         "ref/net472/Assembly-CSharp-firstpass.dll",
         "ref/net472/Assembly-CSharp.dll",
@@ -298,11 +298,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Drag-Sorting\\1.5\\Source\\DragSorting.csproj",
+      "projectUniqueName": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Drag-Sorting\\1.5\\Source\\DragSorting.csproj",
       "projectName": "DragSorting",
-      "projectPath": "c:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Drag-Sorting\\1.5\\Source\\DragSorting.csproj",
+      "projectPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Drag-Sorting\\1.5\\Source\\DragSorting.csproj",
       "packagesPath": "C:\\Users\\Vova\\.nuget\\packages\\",
-      "outputPath": "c:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Drag-Sorting\\1.5\\Source\\obj\\",
+      "outputPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Drag-Sorting\\1.5\\Source\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vova\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -353,7 +353,7 @@
             "version": "[2.3.3, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }

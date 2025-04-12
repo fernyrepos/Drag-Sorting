@@ -18,7 +18,7 @@ namespace DragSorting
 
         public bool Matches(DesignationCategoryDef def)
         {
-            return def.defName == defName;
+            return string.Equals(def.defName, defName, StringComparison.Ordinal);
         }
     }
 }

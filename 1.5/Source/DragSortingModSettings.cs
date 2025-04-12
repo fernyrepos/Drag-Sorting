@@ -29,6 +29,7 @@ namespace DragSorting
         {
             reorderedDesignators.Clear();
             reorderedCategories.Clear();
+            DesignationCategoryDef_ResolvedAllowedDesignators_Patch.ClearCache();
             var ui = (MainTabWindow_Architect)MainButtonDefOf.Architect.TabWindow;
             if (ui != null)
             {
