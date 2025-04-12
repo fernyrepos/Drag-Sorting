@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ModMetaData>
+    <name>Drag-Sorting</name>
+    <author>ferny</author>
+    <packageId>ferny.DragSorting</packageId>
+    <description>This mod adds a feature to sort and drag various menus.</description>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+    <loadAfter>
+        <li>Ludeon.RimWorld</li>
+        <li>Ludeon.RimWorld.Royalty</li>
+        <li>Ludeon.RimWorld.Biotech</li>
+        <li>Ludeon.RimWorld.Anomaly</li>
+        <li>brrainz.harmony</li>
+    </loadAfter>
+    <loadBefore>
+        <li>Taggerung.IAintBuildingThat</li>
+    </loadBefore>
+    <incompatibleWith>
+        <li>Mlie.TabSorting</li>
+        <li>Blockdude.ScrollableGizmos</li>
+    </incompatibleWith>
+</ModMetaData>

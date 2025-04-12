@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Drag-Sorting\1.5\Assemblies\DragSorting.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Drag-Sorting\1.5\Source\obj\Debug\DragSorting.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Drag-Sorting\1.5\Source\obj\Debug\DragSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Drag-Sorting\1.5\Source\obj\Debug\DragSorting.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Drag-Sorting\1.5\Source\obj\Debug\DragSorting.dll
