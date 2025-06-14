@@ -13,7 +13,7 @@
             "command": "dotnet",
             "args": [
                 "build",
-                "${workspaceFolder}/1.5/Source/DragSorting.csproj"
+                "${workspaceFolder}/1.6/Source/DragSorting.csproj"
             ],
             "problemMatcher": "$msCompile",
             "group": {
